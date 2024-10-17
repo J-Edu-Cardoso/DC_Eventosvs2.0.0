@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-
 namespace DC_Eventos.Application.Dtos
 {
     public class PalestranteUpdateDto

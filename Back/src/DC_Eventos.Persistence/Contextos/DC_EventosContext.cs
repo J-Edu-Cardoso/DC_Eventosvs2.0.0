@@ -3,8 +3,9 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using DC_Eventos.Domain;
 using DC_Eventos.Domain.Identity;
-
+using System;
 namespace DC_Eventos.Persistence.Contextos
+
 {
     public class DC_EventosContext : IdentityDbContext<User, Role, int, 
                                                        IdentityUserClaim<int>, UserRole, IdentityUserLogin<int>, 
