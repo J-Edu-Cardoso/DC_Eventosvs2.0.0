@@ -1,9 +1,7 @@
-using System;
 using AutoMapper;
 using DC_Eventos.Application.Dtos;
 using DC_Eventos.Domain;
 using DC_Eventos.Domain.Identity;
-using DC_Eventos.Persistence.Models;
 
 namespace DC_Eventos.API.Helpers
 {

@@ -1,5 +1,4 @@
 using System.Threading.Tasks;
-using DC_Eventos.Domain;
 
 namespace DC_Eventos.Persistence.Contratos
 {

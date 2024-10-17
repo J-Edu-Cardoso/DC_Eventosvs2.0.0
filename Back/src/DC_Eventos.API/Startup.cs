@@ -10,7 +10,6 @@ using DC_Eventos.Application.Contratos;
 using DC_Eventos.Persistence;
 using DC_Eventos.Persistence.Contextos;
 using DC_Eventos.Persistence.Contratos;
-using AutoMapper;
 using System;
 using Microsoft.Extensions.FileProviders;
 using System.IO;

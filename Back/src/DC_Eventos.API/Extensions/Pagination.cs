@@ -1,7 +1,4 @@
 using System.Text.Json;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using DC_Eventos.API.Models;
 
