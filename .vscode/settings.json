@@ -1,1 +1,7 @@
-{}
+{
+  "angular-schematics.schematicsDefaultOptions": {
+    "angular-*": {
+      "style": "scss"
+    }
+  }
+}
