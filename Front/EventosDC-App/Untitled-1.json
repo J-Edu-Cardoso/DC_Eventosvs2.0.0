@@ -1,0 +1,863 @@
+{
+	"knownSymbols": {
+		"getTestBed": [
+			{
+				"name": "getTestBed",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"platformBrowserDynamic": [
+			{
+				"name": "platformBrowserDynamic",
+				"module": "@angular/platform-browser-dynamic",
+				"isDefault": false
+			}
+		],
+		"environment": [
+			{
+				"name": "environment",
+				"module": "@environments/environment",
+				"isDefault": false
+			},
+			{
+				"name": "environment",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\environments\\environment.prod.ts",
+				"type": "const",
+				"isDefault": false
+			}
+		],
+		"Constants": [
+			{
+				"name": "Constants",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\util\\constants.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"TituloComponent": [
+			{
+				"name": "TituloComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\shared\\titulo\\titulo.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Component": [
+			{
+				"name": "Component",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"Input": [
+			{
+				"name": "Input",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"OnInit": [
+			{
+				"name": "OnInit",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"Router": [
+			{
+				"name": "Router",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"async": [
+			{
+				"name": "async",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"ComponentFixture": [
+			{
+				"name": "ComponentFixture",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"TestBed": [
+			{
+				"name": "TestBed",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"By": [
+			{
+				"name": "By",
+				"module": "@angular/platform-browser",
+				"isDefault": false
+			}
+		],
+		"DebugElement": [
+			{
+				"name": "DebugElement",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"NavComponent": [
+			{
+				"name": "NavComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\shared\\nav\\nav.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"waitForAsync": [
+			{
+				"name": "waitForAsync",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"RedeSocialService": [
+			{
+				"name": "RedeSocialService",
+				"module": "@app/services/redeSocial.service",
+				"isDefault": false
+			},
+			{
+				"name": "RedeSocialService",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\services\\redeSocial.service.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"HttpClient": [
+			{
+				"name": "HttpClient",
+				"module": "@angular/common/http",
+				"isDefault": false
+			}
+		],
+		"Injectable": [
+			{
+				"name": "Injectable",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"RedeSocial": [
+			{
+				"name": "RedeSocial",
+				"module": "@app/models/RedeSocial",
+				"isDefault": false
+			},
+			{
+				"name": "RedeSocial",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\models\\RedeSocial.ts",
+				"type": "interface",
+				"isDefault": false
+			}
+		],
+		"Observable": [
+			{
+				"name": "Observable",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"take": [
+			{
+				"name": "take",
+				"module": "rxjs/operators",
+				"isDefault": false
+			}
+		],
+		"inject": [
+			{
+				"name": "inject",
+				"module": "@angular/core/testing",
+				"isDefault": false
+			}
+		],
+		"PalestranteService": [
+			{
+				"name": "PalestranteService",
+				"module": "@app/services/palestrante.service",
+				"isDefault": false
+			},
+			{
+				"name": "PalestranteService",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\services\\palestrante.service.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"HttpParams": [
+			{
+				"name": "HttpParams",
+				"module": "@angular/common/http",
+				"isDefault": false
+			}
+		],
+		"Palestrante": [
+			{
+				"name": "Palestrante",
+				"module": "@app/models/Palestrante",
+				"isDefault": false
+			},
+			{
+				"name": "Palestrante",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\models\\Palestrante.ts",
+				"type": "interface",
+				"isDefault": false
+			}
+		],
+		"PaginatedResult": [
+			{
+				"name": "PaginatedResult",
+				"module": "@app/models/Pagination",
+				"isDefault": false
+			},
+			{
+				"name": "PaginatedResult",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\models\\Pagination.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"map": [
+			{
+				"name": "map",
+				"module": "rxjs/operators",
+				"isDefault": false
+			}
+		],
+		"LoteService": [
+			{
+				"name": "LoteService",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\services\\lote.service.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Lote": [
+			{
+				"name": "Lote",
+				"module": "@app/models/Lote",
+				"isDefault": false
+			},
+			{
+				"name": "Lote",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\models\\Lote.ts",
+				"type": "interface",
+				"isDefault": false
+			}
+		],
+		"EventoService": [
+			{
+				"name": "EventoService",
+				"module": "@app/services/evento.service",
+				"isDefault": false
+			},
+			{
+				"name": "EventoService",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\services\\evento.service.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AccountService": [
+			{
+				"name": "AccountService",
+				"module": "@app/services/account.service",
+				"isDefault": false
+			},
+			{
+				"name": "AccountService",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\services\\account.service.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"ReplaySubject": [
+			{
+				"name": "ReplaySubject",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"User": [
+			{
+				"name": "User",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\models\\identity\\User.ts",
+				"type": "class",
+				"isDefault": false
+			},
+			{
+				"name": "User",
+				"module": "@app/models/identity/User",
+				"isDefault": false
+			}
+		],
+		"UserUpdate": [
+			{
+				"name": "UserUpdate",
+				"module": "@app/models/identity/UserUpdate",
+				"isDefault": false
+			},
+			{
+				"name": "UserUpdate",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\models\\identity\\UserUpdate.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Pagination": [
+			{
+				"name": "Pagination",
+				"module": "@app/models/Pagination",
+				"isDefault": false
+			},
+			{
+				"name": "Pagination",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\models\\Pagination.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"UserLogin": [
+			{
+				"name": "UserLogin",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\models\\identity\\UserLogin.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Evento": [
+			{
+				"name": "Evento",
+				"module": "@app/models/Evento",
+				"isDefault": false
+			},
+			{
+				"name": "Evento",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\models\\Evento.ts",
+				"type": "interface",
+				"isDefault": false
+			}
+		],
+		"JwtInterceptor": [
+			{
+				"name": "JwtInterceptor",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\interceptors\\jwt.interceptor.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"throwError": [
+			{
+				"name": "throwError",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"catchError": [
+			{
+				"name": "catchError",
+				"module": "rxjs/operators",
+				"isDefault": false
+			}
+		],
+		"ValidatorField": [
+			{
+				"name": "ValidatorField",
+				"module": "@app/helpers/ValidatorField",
+				"isDefault": false
+			},
+			{
+				"name": "ValidatorField",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\helpers\\ValidatorField.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AbstractControl": [
+			{
+				"name": "AbstractControl",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"FormGroup": [
+			{
+				"name": "FormGroup",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"DateTimeFormatPipe": [
+			{
+				"name": "DateTimeFormatPipe",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\helpers\\DateTimeFormat.pipe.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"DatePipe": [
+			{
+				"name": "DatePipe",
+				"module": "@angular/common",
+				"isDefault": false
+			}
+		],
+		"Pipe": [
+			{
+				"name": "Pipe",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"PipeTransform": [
+			{
+				"name": "PipeTransform",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"AuthGuard": [
+			{
+				"name": "AuthGuard",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\guard\\auth.guard.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"CanActivate": [
+			{
+				"name": "CanActivate",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"ToastrService": [
+			{
+				"name": "ToastrService",
+				"module": "ngx-toastr",
+				"isDefault": false
+			}
+		],
+		"UserComponent": [
+			{
+				"name": "UserComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\user\\user.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"RegistrationComponent": [
+			{
+				"name": "RegistrationComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\user\\registration\\registration.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AbstractControlOptions": [
+			{
+				"name": "AbstractControlOptions",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"FormBuilder": [
+			{
+				"name": "FormBuilder",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"Validators": [
+			{
+				"name": "Validators",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"PerfilComponent": [
+			{
+				"name": "PerfilComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\user\\perfil\\perfil.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"NgxSpinnerService": [
+			{
+				"name": "NgxSpinnerService",
+				"module": "ngx-spinner",
+				"isDefault": false
+			}
+		],
+		"PerfilDetalheComponent": [
+			{
+				"name": "PerfilDetalheComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\user\\perfil\\perfil-detalhe\\perfil-detalhe.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"EventEmitter": [
+			{
+				"name": "EventEmitter",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"Output": [
+			{
+				"name": "Output",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"LoginComponent": [
+			{
+				"name": "LoginComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\user\\login\\login.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"RedesSociaisComponent": [
+			{
+				"name": "RedesSociaisComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\redesSociais\\redesSociais.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"TemplateRef": [
+			{
+				"name": "TemplateRef",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"BsModalRef": [
+			{
+				"name": "BsModalRef",
+				"module": "ngx-bootstrap/modal",
+				"isDefault": false
+			}
+		],
+		"BsModalService": [
+			{
+				"name": "BsModalService",
+				"module": "ngx-bootstrap/modal",
+				"isDefault": false
+			}
+		],
+		"FormArray": [
+			{
+				"name": "FormArray",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"FormControl": [
+			{
+				"name": "FormControl",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"PalestrantesComponent": [
+			{
+				"name": "PalestrantesComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\palestrantes\\palestrantes.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"PalestranteListaComponent": [
+			{
+				"name": "PalestranteListaComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\palestrantes\\palestrante-lista\\palestrante-lista.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Subject": [
+			{
+				"name": "Subject",
+				"module": "rxjs",
+				"isDefault": false
+			}
+		],
+		"debounceTime": [
+			{
+				"name": "debounceTime",
+				"module": "rxjs/operators",
+				"isDefault": false
+			}
+		],
+		"PalestranteDetalheComponent": [
+			{
+				"name": "PalestranteDetalheComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\palestrantes\\palestrante-detalhe\\palestrante-detalhe.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"tap": [
+			{
+				"name": "tap",
+				"module": "rxjs/operators",
+				"isDefault": false
+			}
+		],
+		"HomeComponent": [
+			{
+				"name": "HomeComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\home\\home.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"EventosComponent": [
+			{
+				"name": "EventosComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\eventos\\eventos.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"EventoListaComponent": [
+			{
+				"name": "EventoListaComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\eventos\\evento-lista\\evento-lista.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"EventoDetalheComponent": [
+			{
+				"name": "EventoDetalheComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\eventos\\evento-detalhe\\evento-detalhe.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"ActivatedRoute": [
+			{
+				"name": "ActivatedRoute",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"BsLocaleService": [
+			{
+				"name": "BsLocaleService",
+				"module": "ngx-bootstrap/datepicker",
+				"isDefault": false
+			}
+		],
+		"DashboardComponent": [
+			{
+				"name": "DashboardComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\dashboard\\dashboard.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"ContatosComponent": [
+			{
+				"name": "ContatosComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\components\\contatos\\contatos.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"AppModule": [
+			{
+				"name": "AppModule",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\app.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"BrowserModule": [
+			{
+				"name": "BrowserModule",
+				"module": "@angular/platform-browser",
+				"isDefault": false
+			}
+		],
+		"BrowserAnimationsModule": [
+			{
+				"name": "BrowserAnimationsModule",
+				"module": "@angular/platform-browser/animations",
+				"isDefault": false
+			}
+		],
+		"FormsModule": [
+			{
+				"name": "FormsModule",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"ReactiveFormsModule": [
+			{
+				"name": "ReactiveFormsModule",
+				"module": "@angular/forms",
+				"isDefault": false
+			}
+		],
+		"NgModule": [
+			{
+				"name": "NgModule",
+				"module": "@angular/core",
+				"isDefault": false
+			}
+		],
+		"HttpClientModule": [
+			{
+				"name": "HttpClientModule",
+				"module": "@angular/common/http",
+				"isDefault": false
+			}
+		],
+		"HTTP_INTERCEPTORS": [
+			{
+				"name": "HTTP_INTERCEPTORS",
+				"module": "@angular/common/http",
+				"isDefault": false
+			}
+		],
+		"CollapseModule": [
+			{
+				"name": "CollapseModule",
+				"module": "ngx-bootstrap/collapse",
+				"isDefault": false
+			}
+		],
+		"TooltipModule": [
+			{
+				"name": "TooltipModule",
+				"module": "ngx-bootstrap/tooltip",
+				"isDefault": false
+			}
+		],
+		"BsDropdownModule": [
+			{
+				"name": "BsDropdownModule",
+				"module": "ngx-bootstrap/dropdown",
+				"isDefault": false
+			}
+		],
+		"ModalModule": [
+			{
+				"name": "ModalModule",
+				"module": "ngx-bootstrap/modal",
+				"isDefault": false
+			}
+		],
+		"PaginationModule": [
+			{
+				"name": "PaginationModule",
+				"module": "ngx-bootstrap/pagination",
+				"isDefault": false
+			}
+		],
+		"TabsModule": [
+			{
+				"name": "TabsModule",
+				"module": "ngx-bootstrap/tabs",
+				"isDefault": false
+			}
+		],
+		"BsDatepickerModule": [
+			{
+				"name": "BsDatepickerModule",
+				"module": "ngx-bootstrap/datepicker",
+				"isDefault": false
+			}
+		],
+		"defineLocale": [
+			{
+				"name": "defineLocale",
+				"module": "ngx-bootstrap/chronos",
+				"isDefault": false
+			}
+		],
+		"ptBrLocale": [
+			{
+				"name": "ptBrLocale",
+				"module": "ngx-bootstrap/locale",
+				"isDefault": false
+			}
+		],
+		"NgxCurrencyModule": [
+			{
+				"name": "NgxCurrencyModule",
+				"module": "ngx-currency",
+				"isDefault": false
+			}
+		],
+		"ToastrModule": [
+			{
+				"name": "ToastrModule",
+				"module": "ngx-toastr",
+				"isDefault": false
+			}
+		],
+		"NgxSpinnerModule": [
+			{
+				"name": "NgxSpinnerModule",
+				"module": "ngx-spinner",
+				"isDefault": false
+			}
+		],
+		"AppComponent": [
+			{
+				"name": "AppComponent",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\app.component.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"RouterTestingModule": [
+			{
+				"name": "RouterTestingModule",
+				"module": "@angular/router/testing",
+				"isDefault": false
+			}
+		],
+		"AppRoutingModule": [
+			{
+				"name": "AppRoutingModule",
+				"path": "c:\\Users\\EduPC\\Documents\\DC_EventosVs2.0.0\\Front\\EventosDC-App\\src\\app\\app-routing.module.ts",
+				"type": "class",
+				"isDefault": false
+			}
+		],
+		"Routes": [
+			{
+				"name": "Routes",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		],
+		"RouterModule": [
+			{
+				"name": "RouterModule",
+				"module": "@angular/router",
+				"isDefault": false
+			}
+		]
+	}
+}
